@@ -1,0 +1,525 @@
+{
+ "systems": {
+  "asp_audio": {
+   "r10_sealed": {
+    "auc": 0.9105204862558552,
+    "eer": 0.1262016580880134,
+    "ece": 0.10197290923837844,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8721630816880109,
+     0.9390800197326565
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.865546218487395,
+    "contrast_sd": 0.43344848388801827,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.79,
+    "contrast_sd": 0.3631908690401058,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.070126464137084,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.08333333333333333,
+     "Beijing": 0.0,
+     "Northeastern": 0.08,
+     "Ji-Lu": 0.019417475728155338,
+     "Jiao-Liao": 0.04,
+     "Zhongyuan": 0.0641025641025641,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.05747126436781609,
+     "Southwestern": 0.21568627450980393,
+     "non_southwestern_mean": 0.046886733537637455
+    },
+    "final": {
+     "none": 0.011904761904761904,
+     "Beijing": 0.0,
+     "Northeastern": 0.03614457831325301,
+     "Ji-Lu": 0.011363636363636364,
+     "Jiao-Liao": 0.05434782608695652,
+     "Zhongyuan": 0.04424778761061947,
+     "Lan-Yin": 0.0136986301369863,
+     "Jiang-Huai": 0.029411764705882353,
+     "Southwestern": 0.2235294117647059,
+     "non_southwestern_mean": 0.02513987314026199
+    },
+    "all": {
+     "none": 0.052083333333333336,
+     "Beijing": 0.0,
+     "Northeastern": 0.060109289617486336,
+     "Ji-Lu": 0.015706806282722512,
+     "Jiao-Liao": 0.046875,
+     "Zhongyuan": 0.05235602094240838,
+     "Lan-Yin": 0.021739130434782608,
+     "Jiang-Huai": 0.042328042328042326,
+     "Southwestern": 0.2192513368983957,
+     "non_southwestern_mean": 0.036399702867346936
+    }
+   }
+  },
+  "asp_text": {
+   "r10_sealed": {
+    "auc": 0.9095955817040959,
+    "eer": 0.13004696396965634,
+    "ece": 0.10127454728614871,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8732131740271081,
+     0.9384935939750337
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.865546218487395,
+    "contrast_sd": 0.4365178061655468,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.791,
+    "contrast_sd": 0.3658516500080945,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.0776032562927998,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.08333333333333333,
+     "Beijing": 0.0,
+     "Northeastern": 0.07,
+     "Ji-Lu": 0.019417475728155338,
+     "Jiao-Liao": 0.04,
+     "Zhongyuan": 0.0641025641025641,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.05747126436781609,
+     "Southwestern": 0.20588235294117646,
+     "non_southwestern_mean": 0.045636733537637454
+    },
+    "final": {
+     "none": 0.0,
+     "Beijing": 0.0,
+     "Northeastern": 0.03614457831325301,
+     "Ji-Lu": 0.011363636363636364,
+     "Jiao-Liao": 0.043478260869565216,
+     "Zhongyuan": 0.02654867256637168,
+     "Lan-Yin": 0.0273972602739726,
+     "Jiang-Huai": 0.0392156862745098,
+     "Southwestern": 0.21176470588235294,
+     "non_southwestern_mean": 0.023018511832663582
+    },
+    "all": {
+     "none": 0.046875,
+     "Beijing": 0.0,
+     "Northeastern": 0.0546448087431694,
+     "Ji-Lu": 0.015706806282722512,
+     "Jiao-Liao": 0.041666666666666664,
+     "Zhongyuan": 0.041884816753926704,
+     "Lan-Yin": 0.028985507246376812,
+     "Jiang-Huai": 0.047619047619047616,
+     "Southwestern": 0.20855614973262032,
+     "non_southwestern_mean": 0.03467283166398871
+    }
+   }
+  },
+  "detective_mini_text": {
+   "r10_sealed": {
+    "auc": 0.9007206124735303,
+    "eer": 0.14092885937782904,
+    "ece": 0.058173892403797216,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8559530881938958,
+     0.9336177780886769
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.8571428571428571,
+    "contrast_sd": 0.42950815022770916,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.797,
+    "contrast_sd": 0.36294333009654184,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.06185607561187764,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.046296296296296294,
+     "Beijing": 0.020833333333333332,
+     "Northeastern": 0.04,
+     "Ji-Lu": 0.02912621359223301,
+     "Jiao-Liao": 0.04,
+     "Zhongyuan": 0.0641025641025641,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.09195402298850575,
+     "Southwestern": 0.23529411764705882,
+     "non_southwestern_mean": 0.0453852076352704
+    },
+    "final": {
+     "none": 0.03571428571428571,
+     "Beijing": 0.0,
+     "Northeastern": 0.03614457831325301,
+     "Ji-Lu": 0.011363636363636364,
+     "Jiao-Liao": 0.05434782608695652,
+     "Zhongyuan": 0.02654867256637168,
+     "Lan-Yin": 0.0410958904109589,
+     "Jiang-Huai": 0.0392156862745098,
+     "Southwestern": 0.25882352941176473,
+     "non_southwestern_mean": 0.0305538219662465
+    },
+    "all": {
+     "none": 0.041666666666666664,
+     "Beijing": 0.01020408163265306,
+     "Northeastern": 0.03825136612021858,
+     "Ji-Lu": 0.020942408376963352,
+     "Jiao-Liao": 0.046875,
+     "Zhongyuan": 0.041884816753926704,
+     "Lan-Yin": 0.036231884057971016,
+     "Jiang-Huai": 0.06349206349206349,
+     "Southwestern": 0.24598930481283424,
+     "non_southwestern_mean": 0.037443535887557854
+    }
+   }
+  },
+  "detective_nano_text": {
+   "r10_sealed": {
+    "auc": 0.8853971385186215,
+    "eer": 0.14092885937782904,
+    "ece": 0.0644336171619604,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8472185466662846,
+     0.9191305604263232
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.8739495798319328,
+    "contrast_sd": 0.5106087671990688,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.796,
+    "contrast_sd": 0.37945665337333934,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.0699264837625883,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.07407407407407407,
+     "Beijing": 0.0625,
+     "Northeastern": 0.12,
+     "Ji-Lu": 0.019417475728155338,
+     "Jiao-Liao": 0.05,
+     "Zhongyuan": 0.05128205128205128,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.11494252873563218,
+     "Southwestern": 0.2647058823529412,
+     "non_southwestern_mean": 0.06537317007364296
+    },
+    "final": {
+     "none": 0.023809523809523808,
+     "Beijing": 0.04,
+     "Northeastern": 0.07228915662650602,
+     "Ji-Lu": 0.022727272727272728,
+     "Jiao-Liao": 0.043478260869565216,
+     "Zhongyuan": 0.04424778761061947,
+     "Lan-Yin": 0.0547945205479452,
+     "Jiang-Huai": 0.08823529411764706,
+     "Southwestern": 0.2823529411764706,
+     "non_southwestern_mean": 0.04869772703863494
+    },
+    "all": {
+     "none": 0.052083333333333336,
+     "Beijing": 0.05102040816326531,
+     "Northeastern": 0.09836065573770492,
+     "Ji-Lu": 0.020942408376963352,
+     "Jiao-Liao": 0.046875,
+     "Zhongyuan": 0.04712041884816754,
+     "Lan-Yin": 0.043478260869565216,
+     "Jiang-Huai": 0.10052910052910052,
+     "Southwestern": 0.2727272727272727,
+     "non_southwestern_mean": 0.057551198232262527
+    }
+   }
+  },
+  "detective_small_text": {
+   "r10_sealed": {
+    "auc": 0.9125707221831526,
+    "eer": 0.12076071038392708,
+    "ece": 0.06368703642608863,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8763057545066237,
+     0.9419800776229306
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.8613445378151261,
+    "contrast_sd": 0.42610509302609356,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.797,
+    "contrast_sd": 0.3682035708352518,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.12649605722070412,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.06481481481481481,
+     "Beijing": 0.020833333333333332,
+     "Northeastern": 0.05,
+     "Ji-Lu": 0.02912621359223301,
+     "Jiao-Liao": 0.02,
+     "Zhongyuan": 0.07692307692307693,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.06896551724137931,
+     "Southwestern": 0.2549019607843137,
+     "non_southwestern_mean": 0.04517902333425852
+    },
+    "final": {
+     "none": 0.023809523809523808,
+     "Beijing": 0.0,
+     "Northeastern": 0.03614457831325301,
+     "Ji-Lu": 0.022727272727272728,
+     "Jiao-Liao": 0.06521739130434782,
+     "Zhongyuan": 0.02654867256637168,
+     "Lan-Yin": 0.0,
+     "Jiang-Huai": 0.06862745098039216,
+     "Southwestern": 0.3058823529411765,
+     "non_southwestern_mean": 0.03038436121264515
+    },
+    "all": {
+     "none": 0.046875,
+     "Beijing": 0.01020408163265306,
+     "Northeastern": 0.04371584699453552,
+     "Ji-Lu": 0.02617801047120419,
+     "Jiao-Liao": 0.041666666666666664,
+     "Zhongyuan": 0.04712041884816754,
+     "Lan-Yin": 0.014492753623188406,
+     "Jiang-Huai": 0.06878306878306878,
+     "Southwestern": 0.27807486631016043,
+     "non_southwestern_mean": 0.03737948087743552
+    }
+   }
+  },
+  "detective_tiny_text": {
+   "r10_sealed": {
+    "auc": 0.9002566908032055,
+    "eer": 0.13708355349618612,
+    "ece": 0.05949258295779353,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8601414964696443,
+     0.9318354105330618
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.8613445378151261,
+    "contrast_sd": 0.455137387435663,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.796,
+    "contrast_sd": 0.360518645177548,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.046873019548548,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.06481481481481481,
+     "Beijing": 0.0,
+     "Northeastern": 0.08,
+     "Ji-Lu": 0.02912621359223301,
+     "Jiao-Liao": 0.03,
+     "Zhongyuan": 0.0641025641025641,
+     "Lan-Yin": 0.046153846153846156,
+     "Jiang-Huai": 0.09195402298850575,
+     "Southwestern": 0.21568627450980393,
+     "non_southwestern_mean": 0.050768932706495476
+    },
+    "final": {
+     "none": 0.023809523809523808,
+     "Beijing": 0.0,
+     "Northeastern": 0.03614457831325301,
+     "Ji-Lu": 0.022727272727272728,
+     "Jiao-Liao": 0.06521739130434782,
+     "Zhongyuan": 0.02654867256637168,
+     "Lan-Yin": 0.0410958904109589,
+     "Jiang-Huai": 0.049019607843137254,
+     "Southwestern": 0.2235294117647059,
+     "non_southwestern_mean": 0.03307036712185815
+    },
+    "all": {
+     "none": 0.046875,
+     "Beijing": 0.0,
+     "Northeastern": 0.060109289617486336,
+     "Ji-Lu": 0.02617801047120419,
+     "Jiao-Liao": 0.046875,
+     "Zhongyuan": 0.041884816753926704,
+     "Lan-Yin": 0.043478260869565216,
+     "Jiang-Huai": 0.06878306878306878,
+     "Southwestern": 0.2192513368983957,
+     "non_southwestern_mean": 0.0417729308119064
+    }
+   }
+  },
+  "syllable_audio": {
+   "r10_sealed": {
+    "auc": 0.8829271399286133,
+    "eer": 0.13933321755538558,
+    "ece": 0.10934736341938875,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.841213809072155,
+     0.9198073427298269
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.7773109243697479,
+    "contrast_sd": 0.37912973353708945,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.755,
+    "contrast_sd": 0.35604329940485435,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.06897837215215416,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.10185185185185185,
+     "Beijing": 0.041666666666666664,
+     "Northeastern": 0.1,
+     "Ji-Lu": 0.038834951456310676,
+     "Jiao-Liao": 0.09,
+     "Zhongyuan": 0.07692307692307693,
+     "Lan-Yin": 0.046153846153846156,
+     "Jiang-Huai": 0.12643678160919541,
+     "Southwestern": 0.23529411764705882,
+     "non_southwestern_mean": 0.07773339683261847
+    },
+    "final": {
+     "none": 0.03571428571428571,
+     "Beijing": 0.04,
+     "Northeastern": 0.08433734939759036,
+     "Ji-Lu": 0.03409090909090909,
+     "Jiao-Liao": 0.07608695652173914,
+     "Zhongyuan": 0.017699115044247787,
+     "Lan-Yin": 0.0547945205479452,
+     "Jiang-Huai": 0.0784313725490196,
+     "Southwestern": 0.3058823529411765,
+     "non_southwestern_mean": 0.052644313608217114
+    },
+    "all": {
+     "none": 0.07291666666666667,
+     "Beijing": 0.04081632653061224,
+     "Northeastern": 0.09289617486338798,
+     "Ji-Lu": 0.03664921465968586,
+     "Jiao-Liao": 0.08333333333333333,
+     "Zhongyuan": 0.041884816753926704,
+     "Lan-Yin": 0.050724637681159424,
+     "Jiang-Huai": 0.10052910052910052,
+     "Southwestern": 0.26737967914438504,
+     "non_southwestern_mean": 0.0649687838772341
+    }
+   }
+  },
+  "syllable_text": {
+   "r10_sealed": {
+    "auc": 0.8901292786508967,
+    "eer": 0.13708355349618612,
+    "ece": 0.10911756188407591,
+    "n": 2060,
+    "n_speakers": {
+     "tw": 143,
+     "cn": 307
+    },
+    "auc_ci95": [
+     0.8471104926123287,
+     0.9232524685954508
+    ]
+   },
+   "synthetic": {
+    "breezy_first": 0.7941176470588235,
+    "contrast_sd": 0.38348503620610724,
+    "n_pairs": 238
+   },
+   "synthetic2": {
+    "breezy_first": 0.758,
+    "contrast_sd": 0.3549758365700564,
+    "n_pairs": 1000
+   },
+   "voice_share": 0.07249378007830194,
+   "kespeech_judged_taiwan": {
+    "select": {
+     "none": 0.07407407407407407,
+     "Beijing": 0.041666666666666664,
+     "Northeastern": 0.12,
+     "Ji-Lu": 0.04854368932038835,
+     "Jiao-Liao": 0.07,
+     "Zhongyuan": 0.0641025641025641,
+     "Lan-Yin": 0.03076923076923077,
+     "Jiang-Huai": 0.09195402298850575,
+     "Southwestern": 0.23529411764705882,
+     "non_southwestern_mean": 0.06763878099017871
+    },
+    "final": {
+     "none": 0.03571428571428571,
+     "Beijing": 0.02,
+     "Northeastern": 0.08433734939759036,
+     "Ji-Lu": 0.022727272727272728,
+     "Jiao-Liao": 0.05434782608695652,
+     "Zhongyuan": 0.035398230088495575,
+     "Lan-Yin": 0.0547945205479452,
+     "Jiang-Huai": 0.08823529411764706,
+     "Southwestern": 0.32941176470588235,
+     "non_southwestern_mean": 0.04944434733502415
+    },
+    "all": {
+     "none": 0.057291666666666664,
+     "Beijing": 0.030612244897959183,
+     "Northeastern": 0.10382513661202186,
+     "Ji-Lu": 0.03664921465968586,
+     "Jiao-Liao": 0.0625,
+     "Zhongyuan": 0.04712041884816754,
+     "Lan-Yin": 0.043478260869565216,
+     "Jiang-Huai": 0.08994708994708994,
+     "Southwestern": 0.27807486631016043,
+     "non_southwestern_mean": 0.058928004062644534
+    }
+   }
+  }
+ },
+ "teacher_seeds": []
+}

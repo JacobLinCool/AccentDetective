@@ -1,0 +1,2018 @@
+[
+ {
+  "clip": "c001",
+  "item_id": "tw_r10_common_voice_zh-TW_33020203",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c002",
+  "item_id": "cn_r10_common_voice_zh-CN_19792560",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c003",
+  "item_id": "tw_r10_common_voice_zh-TW_18152721",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c004",
+  "item_id": "cn_r10_common_voice_zh-CN_19000595",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c005",
+  "item_id": "cn_r10_common_voice_zh-CN_19011931",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c006",
+  "item_id": "cn_r10_common_voice_zh-CN_19552409",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c007",
+  "item_id": "tw_r10_common_voice_zh-TW_23753606",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c008",
+  "item_id": "cn_r10_common_voice_zh-CN_19011933",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c009",
+  "item_id": "cn_r10_common_voice_zh-CN_22215127",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c010",
+  "item_id": "tw_r10_common_voice_zh-TW_18500664",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c011",
+  "item_id": "cn_r10_common_voice_zh-CN_22061371",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c012",
+  "item_id": "cn_r10_common_voice_zh-CN_19260915",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c013",
+  "item_id": "tw_r10_common_voice_zh-TW_31129538",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c014",
+  "item_id": "cn_r10_common_voice_zh-CN_21955876",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c015",
+  "item_id": "tw_r10_common_voice_zh-TW_36379790",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c016",
+  "item_id": "tw_r10_common_voice_zh-TW_38376435",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c017",
+  "item_id": "tw_r10_common_voice_zh-TW_39777812",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c018",
+  "item_id": "cn_r10_common_voice_zh-CN_22164511",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c019",
+  "item_id": "tw_r10_common_voice_zh-TW_36379792",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c020",
+  "item_id": "tw_r10_common_voice_zh-TW_17995126",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c021",
+  "item_id": "cn_r10_common_voice_zh-CN_33397339",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c022",
+  "item_id": "tw_r10_common_voice_zh-TW_41476521",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c023",
+  "item_id": "cn_r10_common_voice_zh-CN_30545652",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c024",
+  "item_id": "tw_r10_common_voice_zh-TW_18272569",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c025",
+  "item_id": "tw_r10_common_voice_zh-TW_17995129",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c026",
+  "item_id": "tw_r10_common_voice_zh-TW_31114018",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c027",
+  "item_id": "cn_r10_common_voice_zh-CN_22210759",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c028",
+  "item_id": "tw_r10_common_voice_zh-TW_33054291",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c029",
+  "item_id": "cn_r10_common_voice_zh-CN_25677116",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c030",
+  "item_id": "tw_r10_common_voice_zh-TW_18410526",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c031",
+  "item_id": "cn_r10_common_voice_zh-CN_18995390",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c032",
+  "item_id": "tw_r10_common_voice_zh-TW_22263298",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c033",
+  "item_id": "tw_r10_common_voice_zh-TW_27587097",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c034",
+  "item_id": "tw_r10_common_voice_zh-TW_31172455",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c035",
+  "item_id": "cn_r10_common_voice_zh-CN_22210760",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c036",
+  "item_id": "cn_r10_common_voice_zh-CN_21955681",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c037",
+  "item_id": "tw_r10_common_voice_zh-TW_38492232",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c038",
+  "item_id": "cn_r10_common_voice_zh-CN_23733684",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c039",
+  "item_id": "tw_r10_common_voice_zh-TW_23346546",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c040",
+  "item_id": "tw_r10_common_voice_zh-TW_23346545",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c041",
+  "item_id": "tw_r10_common_voice_zh-TW_18410524",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c042",
+  "item_id": "tw_r10_common_voice_zh-TW_20895777",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c043",
+  "item_id": "cn_r10_common_voice_zh-CN_22215615",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c044",
+  "item_id": "cn_r10_common_voice_zh-CN_28017704",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c045",
+  "item_id": "tw_r10_common_voice_zh-TW_22288267",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c046",
+  "item_id": "cn_r10_common_voice_zh-CN_22164509",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c047",
+  "item_id": "tw_r10_common_voice_zh-TW_42696806",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c048",
+  "item_id": "cn_r10_common_voice_zh-CN_23733681",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c049",
+  "item_id": "tw_r10_common_voice_zh-TW_31399973",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c050",
+  "item_id": "cn_r10_common_voice_zh-CN_22210757",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c051",
+  "item_id": "tw_r10_common_voice_zh-TW_31675113",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c052",
+  "item_id": "tw_r10_common_voice_zh-TW_18500847",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c053",
+  "item_id": "cn_r10_common_voice_zh-CN_19001055",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c054",
+  "item_id": "cn_r10_common_voice_zh-CN_19001064",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c055",
+  "item_id": "tw_r10_common_voice_zh-TW_31330969",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c056",
+  "item_id": "cn_r10_common_voice_zh-CN_18994929",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c057",
+  "item_id": "tw_r10_common_voice_zh-TW_31159306",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c058",
+  "item_id": "cn_r10_common_voice_zh-CN_22944775",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c059",
+  "item_id": "tw_r10_common_voice_zh-TW_18500761",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c060",
+  "item_id": "tw_r10_common_voice_zh-TW_42696755",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c061",
+  "item_id": "tw_r10_common_voice_zh-TW_18506670",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c062",
+  "item_id": "cn_r10_common_voice_zh-CN_18772576",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c063",
+  "item_id": "cn_r10_common_voice_zh-CN_18986607",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c064",
+  "item_id": "tw_r10_common_voice_zh-TW_40433661",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c065",
+  "item_id": "tw_r10_common_voice_zh-TW_18501477",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c066",
+  "item_id": "tw_r10_common_voice_zh-TW_18500662",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c067",
+  "item_id": "cn_r10_common_voice_zh-CN_22084311",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c068",
+  "item_id": "tw_r10_common_voice_zh-TW_31334878",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c069",
+  "item_id": "tw_r10_common_voice_zh-TW_26048884",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c070",
+  "item_id": "cn_r10_common_voice_zh-CN_22116784",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c071",
+  "item_id": "tw_r10_common_voice_zh-TW_40433660",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c072",
+  "item_id": "tw_r10_common_voice_zh-TW_18659847",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c073",
+  "item_id": "tw_r10_common_voice_zh-TW_21080231",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c074",
+  "item_id": "tw_r10_common_voice_zh-TW_18501945",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c075",
+  "item_id": "tw_r10_common_voice_zh-TW_41057870",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c076",
+  "item_id": "cn_r10_common_voice_zh-CN_22216153",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c077",
+  "item_id": "tw_r10_common_voice_zh-TW_36692807",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c078",
+  "item_id": "cn_r10_common_voice_zh-CN_33632731",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c079",
+  "item_id": "cn_r10_common_voice_zh-CN_19001062",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c080",
+  "item_id": "tw_r10_common_voice_zh-TW_48703190",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c081",
+  "item_id": "cn_r10_common_voice_zh-CN_19000599",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c082",
+  "item_id": "tw_r10_common_voice_zh-TW_27123524",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c083",
+  "item_id": "tw_r10_common_voice_zh-TW_43616778",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c084",
+  "item_id": "cn_r10_common_voice_zh-CN_22944792",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c085",
+  "item_id": "tw_r10_common_voice_zh-TW_27587100",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c086",
+  "item_id": "cn_r10_common_voice_zh-CN_19792561",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c087",
+  "item_id": "tw_r10_common_voice_zh-TW_31254927",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c088",
+  "item_id": "cn_r10_common_voice_zh-CN_18888811",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c089",
+  "item_id": "tw_r10_common_voice_zh-TW_17824413",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c090",
+  "item_id": "tw_r10_common_voice_zh-TW_36692806",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c091",
+  "item_id": "cn_r10_common_voice_zh-CN_23733673",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c092",
+  "item_id": "cn_r10_common_voice_zh-CN_21955621",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c093",
+  "item_id": "tw_r10_common_voice_zh-TW_17891468",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c094",
+  "item_id": "tw_r10_common_voice_zh-TW_23753605",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c095",
+  "item_id": "cn_r10_common_voice_zh-CN_20531959",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c096",
+  "item_id": "cn_r10_common_voice_zh-CN_22059650",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c097",
+  "item_id": "cn_r10_common_voice_zh-CN_22182644",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c098",
+  "item_id": "cn_r10_common_voice_zh-CN_18986599",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c099",
+  "item_id": "cn_r10_common_voice_zh-CN_29125853",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c100",
+  "item_id": "cn_r10_common_voice_zh-CN_22164420",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c101",
+  "item_id": "cn_r10_common_voice_zh-CN_22071672",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c102",
+  "item_id": "cn_r10_common_voice_zh-CN_22031323",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c103",
+  "item_id": "cn_r10_common_voice_zh-CN_33212499",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c104",
+  "item_id": "cn_r10_common_voice_zh-CN_33287222",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c105",
+  "item_id": "cn_r10_common_voice_zh-CN_19552404",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c106",
+  "item_id": "cn_r10_common_voice_zh-CN_23725404",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c107",
+  "item_id": "tw_r10_common_voice_zh-TW_18500845",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c108",
+  "item_id": "cn_r10_common_voice_zh-CN_33639611",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c109",
+  "item_id": "tw_r10_common_voice_zh-TW_39994116",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c110",
+  "item_id": "cn_r10_common_voice_zh-CN_22189723",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c111",
+  "item_id": "tw_r10_common_voice_zh-TW_18507708",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c112",
+  "item_id": "tw_r10_common_voice_zh-TW_22328889",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c113",
+  "item_id": "tw_r10_common_voice_zh-TW_31411293",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c114",
+  "item_id": "tw_r10_common_voice_zh-TW_23606867",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c115",
+  "item_id": "cn_r10_common_voice_zh-CN_18994921",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c116",
+  "item_id": "cn_r10_common_voice_zh-CN_22216150",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c117",
+  "item_id": "tw_r10_common_voice_zh-TW_18659848",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c118",
+  "item_id": "cn_r10_common_voice_zh-CN_33125924",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c119",
+  "item_id": "cn_r10_common_voice_zh-CN_22051178",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c120",
+  "item_id": "cn_r10_common_voice_zh-CN_21955618",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c121",
+  "item_id": "tw_r10_common_voice_zh-TW_28557669",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c122",
+  "item_id": "cn_r10_common_voice_zh-CN_18994927",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c123",
+  "item_id": "cn_r10_common_voice_zh-CN_30545656",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c124",
+  "item_id": "tw_r10_common_voice_zh-TW_18341472",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c125",
+  "item_id": "cn_r10_common_voice_zh-CN_22944841",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c126",
+  "item_id": "cn_r10_common_voice_zh-CN_22164417",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c127",
+  "item_id": "tw_r10_common_voice_zh-TW_31200703",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c128",
+  "item_id": "cn_r10_common_voice_zh-CN_21955757",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c129",
+  "item_id": "cn_r10_common_voice_zh-CN_26578297",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c130",
+  "item_id": "cn_r10_common_voice_zh-CN_22164506",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c131",
+  "item_id": "cn_r10_common_voice_zh-CN_22164500",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c132",
+  "item_id": "tw_r10_common_voice_zh-TW_39994113",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c133",
+  "item_id": "tw_r10_common_voice_zh-TW_22272244",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c134",
+  "item_id": "tw_r10_common_voice_zh-TW_27687577",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c135",
+  "item_id": "cn_r10_common_voice_zh-CN_21955877",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c136",
+  "item_id": "tw_r10_common_voice_zh-TW_31182199",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c137",
+  "item_id": "cn_r10_common_voice_zh-CN_22215614",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c138",
+  "item_id": "tw_r10_common_voice_zh-TW_42869945",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c139",
+  "item_id": "cn_r10_common_voice_zh-CN_22147870",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c140",
+  "item_id": "cn_r10_common_voice_zh-CN_21955620",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c141",
+  "item_id": "cn_r10_common_voice_zh-CN_30545601",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c142",
+  "item_id": "tw_r10_common_voice_zh-TW_23753604",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c143",
+  "item_id": "cn_r10_common_voice_zh-CN_30496376",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c144",
+  "item_id": "cn_r10_common_voice_zh-CN_19552411",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c145",
+  "item_id": "cn_r10_common_voice_zh-CN_22164418",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c146",
+  "item_id": "cn_r10_common_voice_zh-CN_32727318",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c147",
+  "item_id": "cn_r10_common_voice_zh-CN_21955756",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c148",
+  "item_id": "tw_r10_common_voice_zh-TW_18659845",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c149",
+  "item_id": "cn_r10_common_voice_zh-CN_19260920",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c150",
+  "item_id": "cn_r10_common_voice_zh-CN_21955617",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c151",
+  "item_id": "tw_r10_common_voice_zh-TW_31182197",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c152",
+  "item_id": "tw_r10_common_voice_zh-TW_31354313",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c153",
+  "item_id": "tw_r10_common_voice_zh-TW_37892197",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c154",
+  "item_id": "cn_r10_common_voice_zh-CN_22070570",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c155",
+  "item_id": "cn_r10_common_voice_zh-CN_22070564",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c156",
+  "item_id": "tw_r10_common_voice_zh-TW_31200701",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c157",
+  "item_id": "cn_r10_common_voice_zh-CN_19792542",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c158",
+  "item_id": "cn_r10_common_voice_zh-CN_21831869",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c159",
+  "item_id": "cn_r10_common_voice_zh-CN_19792547",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c160",
+  "item_id": "tw_r10_common_voice_zh-TW_36379791",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c161",
+  "item_id": "cn_r10_common_voice_zh-CN_22189596",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c162",
+  "item_id": "cn_r10_common_voice_zh-CN_22116691",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c163",
+  "item_id": "cn_r10_common_voice_zh-CN_33396110",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c164",
+  "item_id": "tw_r10_common_voice_zh-TW_17995128",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c165",
+  "item_id": "cn_r10_common_voice_zh-CN_22210406",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c166",
+  "item_id": "cn_r10_common_voice_zh-CN_32671572",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c167",
+  "item_id": "tw_r10_common_voice_zh-TW_36692805",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c168",
+  "item_id": "cn_r10_common_voice_zh-CN_23676492",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c169",
+  "item_id": "cn_r10_common_voice_zh-CN_30545540",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c170",
+  "item_id": "tw_r10_common_voice_zh-TW_28557665",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c171",
+  "item_id": "tw_r10_common_voice_zh-TW_31354312",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c172",
+  "item_id": "cn_r10_common_voice_zh-CN_30545603",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c173",
+  "item_id": "tw_r10_common_voice_zh-TW_38810330",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c174",
+  "item_id": "tw_r10_common_voice_zh-TW_32269973",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c175",
+  "item_id": "cn_r10_common_voice_zh-CN_19792559",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c176",
+  "item_id": "cn_r10_common_voice_zh-CN_22164419",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c177",
+  "item_id": "tw_r10_common_voice_zh-TW_23753603",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c178",
+  "item_id": "cn_r10_common_voice_zh-CN_29126009",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c179",
+  "item_id": "cn_r10_common_voice_zh-CN_19792558",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c180",
+  "item_id": "cn_r10_common_voice_zh-CN_22031047",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c181",
+  "item_id": "tw_r10_common_voice_zh-TW_28557667",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c182",
+  "item_id": "tw_r10_common_voice_zh-TW_41057873",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c183",
+  "item_id": "tw_r10_common_voice_zh-TW_24996478",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c184",
+  "item_id": "cn_r10_common_voice_zh-CN_22084309",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c185",
+  "item_id": "tw_r10_common_voice_zh-TW_27587099",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c186",
+  "item_id": "cn_r10_common_voice_zh-CN_22109673",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c187",
+  "item_id": "tw_r10_common_voice_zh-TW_22260580",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c188",
+  "item_id": "tw_r10_common_voice_zh-TW_27687647",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c189",
+  "item_id": "cn_r10_common_voice_zh-CN_21955680",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c190",
+  "item_id": "tw_r10_common_voice_zh-TW_31114021",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c191",
+  "item_id": "cn_r10_common_voice_zh-CN_33313871",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c192",
+  "item_id": "cn_r10_common_voice_zh-CN_26066532",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c193",
+  "item_id": "cn_r10_common_voice_zh-CN_22164719",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c194",
+  "item_id": "cn_r10_common_voice_zh-CN_22074619",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c195",
+  "item_id": "tw_r10_common_voice_zh-TW_37892198",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c196",
+  "item_id": "cn_r10_common_voice_zh-CN_22154440",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c197",
+  "item_id": "cn_r10_common_voice_zh-CN_19878621",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c198",
+  "item_id": "cn_r10_common_voice_zh-CN_30545657",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c199",
+  "item_id": "cn_r10_common_voice_zh-CN_32597553",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c200",
+  "item_id": "tw_r10_common_voice_zh-TW_43616777",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c201",
+  "item_id": "cn_r10_common_voice_zh-CN_22210903",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c202",
+  "item_id": "cn_r10_common_voice_zh-CN_19792539",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c203",
+  "item_id": "cn_r10_common_voice_zh-CN_19011934",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c204",
+  "item_id": "cn_r10_common_voice_zh-CN_19963974",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c205",
+  "item_id": "tw_r10_common_voice_zh-TW_27687649",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c206",
+  "item_id": "tw_r10_common_voice_zh-TW_18146553",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c207",
+  "item_id": "cn_r10_common_voice_zh-CN_22164718",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c208",
+  "item_id": "cn_r10_common_voice_zh-CN_18776318",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c209",
+  "item_id": "cn_r10_common_voice_zh-CN_32597508",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c210",
+  "item_id": "cn_r10_common_voice_zh-CN_22147128",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c211",
+  "item_id": "cn_r10_common_voice_zh-CN_22001449",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c212",
+  "item_id": "cn_r10_common_voice_zh-CN_28017639",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c213",
+  "item_id": "tw_r10_common_voice_zh-TW_37892195",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c214",
+  "item_id": "cn_r10_common_voice_zh-CN_22164421",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c215",
+  "item_id": "tw_r10_common_voice_zh-TW_27076200",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c216",
+  "item_id": "cn_r10_common_voice_zh-CN_39461718",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c217",
+  "item_id": "cn_r10_common_voice_zh-CN_22183490",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c218",
+  "item_id": "tw_r10_common_voice_zh-TW_31378855",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c219",
+  "item_id": "tw_r10_common_voice_zh-TW_31411296",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c220",
+  "item_id": "tw_r10_common_voice_zh-TW_38810331",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c221",
+  "item_id": "tw_r10_common_voice_zh-TW_23626285",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c222",
+  "item_id": "cn_r10_common_voice_zh-CN_32977241",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c223",
+  "item_id": "cn_r10_common_voice_zh-CN_18983470",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c224",
+  "item_id": "tw_r10_common_voice_zh-TW_31330967",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c225",
+  "item_id": "tw_r10_common_voice_zh-TW_18500661",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c226",
+  "item_id": "cn_r10_common_voice_zh-CN_22109065",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c227",
+  "item_id": "tw_r10_common_voice_zh-TW_17824411",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c228",
+  "item_id": "cn_r10_common_voice_zh-CN_25677114",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c229",
+  "item_id": "cn_r10_common_voice_zh-CN_21955619",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c230",
+  "item_id": "cn_r10_common_voice_zh-CN_22144580",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c231",
+  "item_id": "cn_r10_common_voice_zh-CN_22061773",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c232",
+  "item_id": "cn_r10_common_voice_zh-CN_18979777",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c233",
+  "item_id": "tw_r10_common_voice_zh-TW_43616776",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c234",
+  "item_id": "cn_r10_common_voice_zh-CN_18773833",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c235",
+  "item_id": "cn_r10_common_voice_zh-CN_22192795",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c236",
+  "item_id": "cn_r10_common_voice_zh-CN_22125312",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c237",
+  "item_id": "tw_r10_common_voice_zh-TW_27687651",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c238",
+  "item_id": "cn_r10_common_voice_zh-CN_19362988",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c239",
+  "item_id": "cn_r10_common_voice_zh-CN_22189640",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c240",
+  "item_id": "cn_r10_common_voice_zh-CN_18981234",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c241",
+  "item_id": "tw_r10_common_voice_zh-TW_27076198",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c242",
+  "item_id": "cn_r10_common_voice_zh-CN_22263483",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c243",
+  "item_id": "cn_r10_common_voice_zh-CN_22041940",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c244",
+  "item_id": "cn_r10_common_voice_zh-CN_33479595",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c245",
+  "item_id": "cn_r10_common_voice_zh-CN_22189727",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c246",
+  "item_id": "cn_r10_common_voice_zh-CN_22944852",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c247",
+  "item_id": "tw_r10_common_voice_zh-TW_42696804",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c248",
+  "item_id": "cn_r10_common_voice_zh-CN_22221923",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c249",
+  "item_id": "tw_r10_common_voice_zh-TW_42696805",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c250",
+  "item_id": "tw_r10_common_voice_zh-TW_42762569",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c251",
+  "item_id": "cn_r10_common_voice_zh-CN_30545604",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c252",
+  "item_id": "tw_r10_common_voice_zh-TW_23639656",
+  "pool": "control",
+  "label": "tw",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c253",
+  "item_id": "cn_r10_common_voice_zh-CN_21955754",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c254",
+  "item_id": "cn_r10_common_voice_zh-CN_22147126",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c255",
+  "item_id": "cn_r10_common_voice_zh-CN_19000608",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c256",
+  "item_id": "cn_r10_common_voice_zh-CN_29125939",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c257",
+  "item_id": "tw_r10_common_voice_zh-TW_31200704",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c258",
+  "item_id": "cn_r10_common_voice_zh-CN_23717141",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c259",
+  "item_id": "cn_r10_common_voice_zh-CN_18626873",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c260",
+  "item_id": "cn_r10_common_voice_zh-CN_31371258",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c261",
+  "item_id": "cn_r10_common_voice_zh-CN_22059649",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c262",
+  "item_id": "cn_r10_common_voice_zh-CN_18978320",
+  "pool": "control",
+  "label": "cn",
+  "systems_wrong": 0
+ },
+ {
+  "clip": "c263",
+  "item_id": "tw_r10_common_voice_zh-TW_38376436",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c264",
+  "item_id": "tw_r10_common_voice_zh-TW_40346434",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c265",
+  "item_id": "cn_r10_common_voice_zh-CN_19792562",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c266",
+  "item_id": "cn_r10_common_voice_zh-CN_18772596",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c267",
+  "item_id": "cn_r10_common_voice_zh-CN_19792543",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c268",
+  "item_id": "cn_r10_common_voice_zh-CN_22164512",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c269",
+  "item_id": "cn_r10_common_voice_zh-CN_22001448",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c270",
+  "item_id": "cn_r10_common_voice_zh-CN_19792545",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c271",
+  "item_id": "cn_r10_common_voice_zh-CN_28017828",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c272",
+  "item_id": "tw_r10_common_voice_zh-TW_39994114",
+  "pool": "core",
+  "label": "tw",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c273",
+  "item_id": "cn_r10_common_voice_zh-CN_33212326",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 8
+ },
+ {
+  "clip": "c274",
+  "item_id": "cn_r10_common_voice_zh-CN_25665276",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 7
+ },
+ {
+  "clip": "c275",
+  "item_id": "cn_r10_common_voice_zh-CN_23725408",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c276",
+  "item_id": "cn_r10_common_voice_zh-CN_19000576",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c277",
+  "item_id": "cn_r10_common_voice_zh-CN_22051207",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c278",
+  "item_id": "cn_r10_common_voice_zh-CN_22074618",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 9
+ },
+ {
+  "clip": "c279",
+  "item_id": "cn_r10_common_voice_zh-CN_22189638",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c280",
+  "item_id": "tw_r10_common_voice_zh-TW_31129537",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c281",
+  "item_id": "cn_r10_common_voice_zh-CN_18981534",
+  "pool": "core",
+  "label": "cn",
+  "systems_wrong": 12
+ },
+ {
+  "clip": "c282",
+  "item_id": "tw_r10_common_voice_zh-TW_37510527",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 6
+ },
+ {
+  "clip": "c283",
+  "item_id": "cn_r10_common_voice_zh-CN_22060797",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c284",
+  "item_id": "tw_r10_common_voice_zh-TW_31197249",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c285",
+  "item_id": "cn_r10_common_voice_zh-CN_22240410",
+  "pool": "other",
+  "label": "cn",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c286",
+  "item_id": "tw_r10_common_voice_zh-TW_43616779",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 10
+ },
+ {
+  "clip": "c287",
+  "item_id": "tw_r10_common_voice_zh-TW_40886510",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 11
+ },
+ {
+  "clip": "c288",
+  "item_id": "tw_r10_common_voice_zh-TW_18500659",
+  "pool": "other",
+  "label": "tw",
+  "systems_wrong": 7
+ }
+]

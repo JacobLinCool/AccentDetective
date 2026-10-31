@@ -1,0 +1,33 @@
+[project]
+name = "accent-detective-research"
+version = "0.1.0"
+description = "Research code behind Accent Detective: teachers, distillation, the nested trunk, readouts, evaluation and data screening"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "numpy",
+    "torch",
+    "torchaudio",
+    "transformers",
+    "librosa",
+    "soundfile",
+    "pypinyin",
+    "jieba",
+    "opencc",
+    "scikit-learn",
+    "praat-parselmouth",
+    "safetensors",
+    "huggingface_hub",
+    "pyarrow",
+]
+
+[project.optional-dependencies]
+screen = ["silero-vad"]
+paper = ["matplotlib", "scipy"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/twjudge"]

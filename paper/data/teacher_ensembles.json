@@ -1,0 +1,248 @@
+{
+ "teacher_hubert_ens3": {
+  "auc_raw": {
+   "mean": 0.9769061614444176,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "auc_length_matched": {
+   "mean": 0.9770205300989017,
+   "sd": 0.0,
+   "n_seeds": 1,
+   "ci95": [
+    0.963230234289444,
+    0.9867138019856193
+   ]
+  },
+  "eer": {
+   "mean": 0.08051331875961462,
+   "sd": 0.0,
+   "n_seeds": 1,
+   "ci95": [
+    0.06247831484844222,
+    0.09703344237162065
+   ]
+  },
+  "macro_recall_at_0": {
+   "mean": 0.9178997652011983,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "macro_recall_at_dev_eer": {
+   "mean": 0.9200032386041617,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "speaker_auc": {
+   "mean": 0.9752369081877669,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "brier_raw": {
+   "mean": 0.05663036105790484,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "ece_raw": {
+   "mean": 0.028796962972793737,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "brier_platt": {
+   "mean": 0.05989984854719122,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "ece_platt": {
+   "mean": 0.04733656098251066,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "speaker_icc": {
+   "mean": 0.6204468387342685,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "corr_text_only": {
+   "mean": 0.3394566002603964,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "synthetic_frac_breezy_first": {
+   "mean": 0.7815126050420168,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "synthetic_paired_diff_sd": {
+   "mean": 0.364242696070186,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "voice_share": {
+   "mean": 0.04660968909542351,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "text_share": {
+   "mean": 0.5977539826130698,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "frac_judged_taiwan": {
+   "parliament": 0.9930555555555556,
+   "aishell3": 0.5086206896551724,
+   "kespeech": 0.08477970627503338,
+   "ming_b0": 0.014705882352941176,
+   "breezy": 0.19327731092436976,
+   "cosy300m": 0.03361344537815126,
+   "aishell3/north": 0.125,
+   "aishell3/south": 0.7105263157894737,
+   "kespeech/mandarin/Beijing": 0.0,
+   "kespeech/mandarin/Ji-Lu": 0.020942408376963352,
+   "kespeech/mandarin/Jiang-Huai": 0.07936507936507936,
+   "kespeech/mandarin/Jiao-Liao": 0.026041666666666668,
+   "kespeech/mandarin/Lan-Yin": 0.043478260869565216,
+   "kespeech/mandarin/Northeastern": 0.07103825136612021,
+   "kespeech/mandarin/Southwestern": 0.4117647058823529,
+   "kespeech/mandarin/Zhongyuan": 0.020942408376963352,
+   "kespeech/mandarin/none": 0.041666666666666664,
+   "kespeech/subdialect/Beijing": 0.020618556701030927,
+   "kespeech/subdialect/Ji-Lu": 0.03723404255319149,
+   "kespeech/subdialect/Jiang-Huai": 0.04639175257731959,
+   "kespeech/subdialect/Jiao-Liao": 0.02577319587628866,
+   "kespeech/subdialect/Lan-Yin": 0.03723404255319149,
+   "kespeech/subdialect/Northeastern": 0.07894736842105263,
+   "kespeech/subdialect/Southwestern": 0.3915343915343915,
+   "kespeech/subdialect/Zhongyuan": 0.015384615384615385,
+   "cv_test_cn/south": 0.11888111888111888,
+   "cv_test_cn/south_n_speakers": 40.0,
+   "cv_test_cn/southwest": 0.0,
+   "cv_test_cn/southwest_n_speakers": 7.0,
+   "cv_test_cn/north": 0.09734513274336283,
+   "cv_test_cn/north_n_speakers": 33.0
+  }
+ },
+ "teacher_w2v_ens3": {
+  "auc_raw": {
+   "mean": 0.9768660027528135,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "auc_length_matched": {
+   "mean": 0.9727268591443395,
+   "sd": 0.0,
+   "n_seeds": 1,
+   "ci95": [
+    0.9555081737970361,
+    0.9854072437909646
+   ]
+  },
+  "eer": {
+   "mean": 0.07595984130839609,
+   "sd": 0.0,
+   "n_seeds": 1,
+   "ci95": [
+    0.05420763459781451,
+    0.09592806362502063
+   ]
+  },
+  "macro_recall_at_0": {
+   "mean": 0.920493887134645,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "macro_recall_at_dev_eer": {
+   "mean": 0.9246198688365315,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "speaker_auc": {
+   "mean": 0.9732756566526751,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "brier_raw": {
+   "mean": 0.06762426016219265,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "ece_raw": {
+   "mean": 0.06514695091281904,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "brier_platt": {
+   "mean": 0.05681668463523652,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "ece_platt": {
+   "mean": 0.04123548221115968,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "speaker_icc": {
+   "mean": 0.5846039808043448,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "corr_text_only": {
+   "mean": 0.336354212131091,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "synthetic_frac_breezy_first": {
+   "mean": 0.865546218487395,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "synthetic_paired_diff_sd": {
+   "mean": 0.44280928713692186,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "voice_share": {
+   "mean": 0.07222341742729065,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "text_share": {
+   "mean": 0.6057200711064084,
+   "sd": 0.0,
+   "n_seeds": 1
+  },
+  "frac_judged_taiwan": {
+   "parliament": 0.8472222222222222,
+   "aishell3": 0.3103448275862069,
+   "kespeech": 0.07176234979973298,
+   "ming_b0": 0.02100840336134454,
+   "breezy": 0.1638655462184874,
+   "cosy300m": 0.029411764705882353,
+   "aishell3/north": 0.05,
+   "aishell3/south": 0.4473684210526316,
+   "kespeech/mandarin/Beijing": 0.02040816326530612,
+   "kespeech/mandarin/Ji-Lu": 0.020942408376963352,
+   "kespeech/mandarin/Jiang-Huai": 0.07936507936507936,
+   "kespeech/mandarin/Jiao-Liao": 0.036458333333333336,
+   "kespeech/mandarin/Lan-Yin": 0.014492753623188406,
+   "kespeech/mandarin/Northeastern": 0.060109289617486336,
+   "kespeech/mandarin/Southwestern": 0.32620320855614976,
+   "kespeech/mandarin/Zhongyuan": 0.03664921465968586,
+   "kespeech/mandarin/none": 0.03125,
+   "kespeech/subdialect/Beijing": 0.010309278350515464,
+   "kespeech/subdialect/Ji-Lu": 0.031914893617021274,
+   "kespeech/subdialect/Jiang-Huai": 0.061855670103092786,
+   "kespeech/subdialect/Jiao-Liao": 0.020618556701030927,
+   "kespeech/subdialect/Lan-Yin": 0.031914893617021274,
+   "kespeech/subdialect/Northeastern": 0.07368421052631578,
+   "kespeech/subdialect/Southwestern": 0.291005291005291,
+   "kespeech/subdialect/Zhongyuan": 0.010256410256410256,
+   "cv_test_cn/south": 0.0979020979020979,
+   "cv_test_cn/south_n_speakers": 40.0,
+   "cv_test_cn/southwest": 0.14285714285714285,
+   "cv_test_cn/southwest_n_speakers": 7.0,
+   "cv_test_cn/north": 0.08849557522123894,
+   "cv_test_cn/north_n_speakers": 33.0
+  }
+ }
+}

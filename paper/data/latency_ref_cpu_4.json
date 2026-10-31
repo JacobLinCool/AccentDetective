@@ -1,0 +1,28 @@
+{
+ "machine": {
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "torch": "2.6.0+cu124",
+  "cpu_count": 12,
+  "cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+  "gpu": "NVIDIA L4"
+ },
+ "part": "reference",
+ "reference": [
+  {
+   "device": "cpu",
+   "threads": 4,
+   "system": "judge_pipeline",
+   "params": 411329949,
+   "batch": 1,
+   "median_ms": 811.4637290000246
+  },
+  {
+   "device": "cpu",
+   "threads": 4,
+   "system": "aligned_compact",
+   "params": 21423777,
+   "batch": 1,
+   "median_ms": 65.4421769999658
+  }
+ ]
+}

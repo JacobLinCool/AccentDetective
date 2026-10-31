@@ -1,0 +1,46 @@
+[project]
+name = "AccentDetective"
+version = "0.1.0"
+description = "A small, text-free and alignment-free judge of how Taiwan-accented Mandarin speech sounds"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Jhen-Ke Lin", email = "jacob.cs14@nycu.edu.tw" }]
+keywords = ["accent", "taiwan mandarin", "speech", "tts evaluation", "speech data filtering"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Multimedia :: Sound/Audio :: Speech",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "numpy",
+    "torch",
+    "torchaudio",
+    "librosa",
+    "soundfile",
+    "safetensors",
+    "huggingface_hub",
+    "pypinyin",
+    "jieba",
+    "opencc",
+]
+
+[project.urls]
+Homepage = "https://github.com/JacobLinCool/AccentDetective"
+Model = "https://huggingface.co/JacobLinCool/accent-detective"
+Demo = "https://huggingface.co/spaces/JacobLinCool/accent-detective"
+
+[project.scripts]
+accent-detective = "accent_detective.cli:main"
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/accent_detective"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/accent_detective", "README.md", "LICENSE", "pyproject.toml"]

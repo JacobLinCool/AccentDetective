@@ -1,0 +1,199 @@
+{
+ "thresholds": {
+  "voiced": 0.5,
+  "ctc_tok": 0.25,
+  "p_accent": 0.1,
+  "spk_z": -2.2
+ },
+ "clips": 135710,
+ "speakers": 2276,
+ "flags": {
+  "all": {
+   "n": 135710,
+   "silent": 0.002,
+   "not_reading": 0.0025,
+   "unjudged": 0.0004,
+   "accent": 0.0124,
+   "speaker_flag": 0.0021,
+   "clean": 0.9835
+  },
+  "trained": {
+   "n": 11147,
+   "silent": 0.0085,
+   "not_reading": 0.0092,
+   "unjudged": 0.0,
+   "accent": 0.0132,
+   "speaker_flag": 0.0006,
+   "clean": 0.9762
+  },
+  "development": {
+   "n": 1793,
+   "silent": 0.0,
+   "not_reading": 0.0006,
+   "unjudged": 0.0,
+   "accent": 0.0201,
+   "speaker_flag": 0.0017,
+   "clean": 0.9794
+  },
+  "test": {
+   "n": 3163,
+   "silent": 0.0066,
+   "not_reading": 0.0038,
+   "unjudged": 0.0,
+   "accent": 0.0206,
+   "speaker_flag": 0.0047,
+   "clean": 0.9728
+  },
+  "unused": {
+   "n": 119607,
+   "silent": 0.0013,
+   "not_reading": 0.0018,
+   "unjudged": 0.0004,
+   "accent": 0.012,
+   "speaker_flag": 0.0021,
+   "clean": 0.9846
+  }
+ },
+ "speakers_flagged": 7,
+ "sensitivity_clean_share": {
+  "tok 0.15": 0.9849,
+  "tok 0.35": 0.9805,
+  "p 0.05": 0.989,
+  "p 0.2": 0.9725,
+  "voiced 0.3": 0.9839,
+  "voiced 1.0": 0.945
+ },
+ "listener": {
+  "disputed": {
+   "n": 100,
+   "listener": {
+    "tw": 29,
+    "silent": 20,
+    "mid": 21,
+    "lang": 16,
+    "cn": 14
+   },
+   "silent": {
+    "flagged": 20,
+    "true": 20,
+    "hit": 20,
+    "mandarin_flagged": 0
+   },
+   "silent_or_not_reading": {
+    "flagged": 27,
+    "true": 36,
+    "hit": 24,
+    "mandarin_flagged": 3
+   },
+   "accent_removed": {
+    "silent": 16,
+    "mid": 6,
+    "cn": 7,
+    "tw": 5,
+    "lang": 3
+   },
+   "clean_kept": {
+    "tw": 24,
+    "lang": 10,
+    "cn": 7,
+    "mid": 12
+   }
+  },
+  "control": {
+   "n": 20,
+   "listener": {
+    "tw": 13,
+    "lang": 4,
+    "mid": 3
+   },
+   "silent": {
+    "flagged": 0,
+    "true": 0,
+    "hit": 0,
+    "mandarin_flagged": 0
+   },
+   "silent_or_not_reading": {
+    "flagged": 0,
+    "true": 4,
+    "hit": 0,
+    "mandarin_flagged": 0
+   },
+   "accent_removed": {},
+   "clean_kept": {
+    "tw": 13,
+    "lang": 4,
+    "mid": 3
+   }
+  },
+  "all": {
+   "n": 120,
+   "listener": {
+    "tw": 42,
+    "silent": 20,
+    "mid": 24,
+    "lang": 20,
+    "cn": 14
+   },
+   "silent": {
+    "flagged": 20,
+    "true": 20,
+    "hit": 20,
+    "mandarin_flagged": 0
+   },
+   "silent_or_not_reading": {
+    "flagged": 27,
+    "true": 40,
+    "hit": 24,
+    "mandarin_flagged": 3
+   },
+   "accent_removed": {
+    "silent": 16,
+    "mid": 6,
+    "cn": 7,
+    "tw": 5,
+    "lang": 3
+   },
+   "clean_kept": {
+    "tw": 37,
+    "lang": 14,
+    "cn": 7,
+    "mid": 15
+   }
+  }
+ },
+ "sealed": {
+  "published": {
+   "removed": 0,
+   "whisper": 0.9232,
+   "pooled_hubert": 0.8986,
+   "ft_hubert": 0.893,
+   "detective_nano": 0.8743,
+   "detective_small": 0.9012,
+   "judge_hubert": 0.908,
+   "hubert_base_asp": 0.8955,
+   "hubert_large_asp": 0.9248
+  },
+  "auto: silent + not reading": {
+   "removed": 31,
+   "whisper": 0.9359,
+   "pooled_hubert": 0.913,
+   "ft_hubert": 0.9125,
+   "detective_nano": 0.891,
+   "detective_small": 0.9149,
+   "judge_hubert": 0.9216,
+   "hubert_base_asp": 0.9074,
+   "hubert_large_asp": 0.9353
+  },
+  "auto: all four (circular for Detective)": {
+   "removed": 52,
+   "whisper": 0.9482,
+   "pooled_hubert": 0.9336,
+   "ft_hubert": 0.9329,
+   "detective_nano": 0.9123,
+   "detective_small": 0.9378,
+   "judge_hubert": 0.9484,
+   "hubert_base_asp": 0.9331,
+   "hubert_large_asp": 0.9556
+  }
+ }
+}
